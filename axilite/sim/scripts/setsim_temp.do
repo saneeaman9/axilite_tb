@@ -1,0 +1,9 @@
+set MODULE axilite_top
+set TESTCASE tc_01
+set RUNNUMBER svn00
+set DEBUGLEVEL 3
+set NOWLF False
+set NOCOVERAGE True
+set TESTLIB testlib
+set NORUN False
+set NORTLCOMPILE False

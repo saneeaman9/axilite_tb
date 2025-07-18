@@ -1,0 +1,13 @@
++incdir+$CODEDIR/tb
++incdir+$CODEDIR/tb/common
++incdir+$CODEDIR/tb/agents
++incdir+$CODEDIR/tb/top
+$CODEDIR/tb/common/axilite_header_pkg.sv
+$CODEDIR/tb/common/axilite_interface.sv
+$CODEDIR/tb/common/transactions/axilite_trnx_pkg.sv
+
+$CODEDIR/tb/tx_agent/axilite_tx_agent_pkg.sv
+$CODEDIR/tb/scoreboard/axilite_scoreboard_pkg.sv
+$CODEDIR/tb/common/axilite_clock.sv
+$CODEDIR/tb/top/axilite_tb.sv
+$CODEDIR/tb/top/axilite_top.sv

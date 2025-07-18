@@ -1,0 +1,5 @@
++incdir+$CODEDIR
++incdir+$CODEDIR/rtl
+
+$CODEDIR/rtl/Timer_regs_pkg.sv
+$CODEDIR/rtl/Timer_regs.sv

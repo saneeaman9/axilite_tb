@@ -1,0 +1,26 @@
+BEGIN 3:axilite_interface:fast__2:work_tb
+    r_valid :  1:axilite_top:fast:work_tb
+    ar_prot :  1:axilite_top:fast:work_tb
+    w_data :  1:axilite_top:fast:work_tb
+    ar_valid :  1:axilite_top:fast:work_tb
+    ar_ready :  1:axilite_top:fast:work_tb
+    cnt_ien :  1:axilite_top:fast:work_tb
+    r_resp :  1:axilite_top:fast:work_tb
+    cnt_strobe :  1:axilite_top:fast:work_tb
+    aw_valid :  1:axilite_top:fast:work_tb
+    ar_addr :  1:axilite_top:fast:work_tb
+    r_ready :  1:axilite_top:fast:work_tb
+    cnt_udt :  1:axilite_top:fast:work_tb
+    b_valid :  1:axilite_top:fast:work_tb
+    aw_prot :  1:axilite_top:fast:work_tb
+    w_valid :  1:axilite_top:fast:work_tb
+    tlr_strobe :  1:axilite_top:fast:work_tb
+    b_ready :  1:axilite_top:fast:work_tb
+    cnt_ena :  1:axilite_top:fast:work_tb
+    aw_ready :  1:axilite_top:fast:work_tb
+    aw_addr :  1:axilite_top:fast:work_tb
+    w_strb :  1:axilite_top:fast:work_tb
+    b_resp :  1:axilite_top:fast:work_tb
+    r_data :  1:axilite_top:fast:work_tb
+    w_ready :  1:axilite_top:fast:work_tb
+END 
